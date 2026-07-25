@@ -1,0 +1,22 @@
+[
+    {
+        "name": "aaa",
+        "age": 22,
+        "marks": 88
+    },
+    {
+        "name": "bbb",
+        "age": 34,
+        "marks": 98
+    },
+    {
+        "name": "bba",
+        "age": 23,
+        "marks": 100
+    },
+    {
+        "name": "fgh",
+        "age": 44,
+        "marks": 20
+    }
+]
